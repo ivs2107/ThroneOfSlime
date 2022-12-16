@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 44996781fd0bad3479856da214700ee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6924637785923439257
+    second: ezgif.com-gif-maker 2_0
+  - first:
+      213: 7272081401068695674
+    second: ezgif.com-gif-maker 2_1
+  - first:
+      213: -6348486800184146428
+    second: ezgif.com-gif-maker 2_2
+  - first:
+      213: -2202259804355064768
+    second: ezgif.com-gif-maker 2_3
+  - first:
+      213: 3726178154735128909
+    second: ezgif.com-gif-maker 2_4
+  - first:
+      213: 9098660730648358839
+    second: ezgif.com-gif-maker 2_5
+  - first:
+      213: 9175360801244656803
+    second: ezgif.com-gif-maker 2_6
+  - first:
+      213: -6382795027485833262
+    second: ezgif.com-gif-maker 2_7
+  - first:
+      213: 2320435834185427193
+    second: ezgif.com-gif-maker 2_8
+  - first:
+      213: 2726534470981123334
+    second: ezgif.com-gif-maker 2_9
+  - first:
+      213: 469240961111481487
+    second: ezgif.com-gif-maker 2_10
+  - first:
+      213: 6780717744839183683
+    second: ezgif.com-gif-maker 2_11
+  - first:
+      213: -4321531796741014911
+    second: ezgif.com-gif-maker 2_12
+  - first:
+      213: 4143737752397472142
+    second: ezgif.com-gif-maker 2_13
+  - first:
+      213: -7767992665225749764
+    second: ezgif.com-gif-maker 2_14
+  - first:
+      213: -2539727684276688038
+    second: ezgif.com-gif-maker 2_15
+  - first:
+      213: 2819154780449243780
+    second: ezgif.com-gif-maker 2_16
+  - first:
+      213: 8951804567481300955
+    second: ezgif.com-gif-maker 2_17
+  - first:
+      213: -6104475995183786124
+    second: ezgif.com-gif-maker 2_18
+  - first:
+      213: -6462955842643159143
+    second: ezgif.com-gif-maker 2_19
+  - first:
+      213: 5330920674168555899
+    second: ezgif.com-gif-maker 2_20
+  - first:
+      213: -1532292927037667533
+    second: ezgif.com-gif-maker 2_21
+  - first:
+      213: -8336062396803448003
+    second: ezgif.com-gif-maker 2_22
+  - first:
+      213: -561921594159806885
+    second: ezgif.com-gif-maker 2_23
+  - first:
+      213: 7184855293148529845
+    second: ezgif.com-gif-maker 2_24
+  - first:
+      213: -6516426420917262839
+    second: ezgif.com-gif-maker 2_25
+  - first:
+      213: -6090614017770056442
+    second: ezgif.com-gif-maker 2_26
+  - first:
+      213: 7968699740496473344
+    second: ezgif.com-gif-maker 2_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1822
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23efcea0cd43dc84495d2885e4ebf475
+      internalID: -6924637785923439257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1822
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181d5a647f141a4bab1f96d695b375a
+      internalID: 7272081401068695674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1818
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912e3e1a2ba72749840f14bb2c6808b
+      internalID: -6348486800184146428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_3
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1817
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab837148d0e5ff4ca32cd2bb0ecd815
+      internalID: -2202259804355064768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_4
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1812
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243950a191468a43b9596ffb08f8a5c
+      internalID: 3726178154735128909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1457
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76d1ae60e74844983463776c7fd251
+      internalID: 9098660730648358839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1455
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c1edc4500821043a89e4fc9c408b72
+      internalID: 9175360801244656803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1458
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8575c12964ccd4995409a77fc53f18
+      internalID: -6382795027485833262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1461
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3cbdf5e1cba844adc058912649b08
+      internalID: 2320435834185427193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1464
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d3ffbef5c7b7f4f9bbcdea9fdaa93f
+      internalID: 2726534470981123334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1115
+        width: 309
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79da097fc650d489185767e630ce85
+      internalID: 469240961111481487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1118
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03ba576b53ee4a42b059613fb769ebe
+      internalID: 6780717744839183683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1120
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d4eb8c8ea70b449041f5d9d987529
+      internalID: -4321531796741014911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_13
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1124
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e59aa678a8ab84b9fad5f7712176cc
+      internalID: 4143737752397472142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1127
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0012ce041a289ad41b58af510123ba63
+      internalID: -7767992665225749764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 778
+        width: 309
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0274f83a4d8a47b91898549670698
+      internalID: -2539727684276688038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 781
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adbb64b9cec13344ac22a4a3d51713e
+      internalID: 2819154780449243780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 784
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc06ffe6f7f59f438b2bd0a1f858b8d
+      internalID: 8951804567481300955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_18
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 787
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff352414007882c43852f59661558d07
+      internalID: -6104475995183786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_19
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 787
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9cc407790931e42858d2e9f51b51dd
+      internalID: -6462955842643159143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 432
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb96c02e3cab647a65e9f800798fb7
+      internalID: 5330920674168555899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 429
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0793a12c96dc4287f435893395b59
+      internalID: -1532292927037667533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 425
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822d6f5cd1b5ed4b8029d50e5f49505
+      internalID: -8336062396803448003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 423
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba673c8193055e43a3282c9df0ce55a
+      internalID: -561921594159806885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_24
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 420
+        width: 309
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e314283b47a4d499c9ade5bea4d17d
+      internalID: 7184855293148529845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 68
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf9489798b7914b986f5f0d76d766e
+      internalID: -6516426420917262839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64540e719a8d5c649815b6d7b5b92b3f
+      internalID: -6090614017770056442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker 2_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 63
+        width: 309
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab7956a8b970d48a2ec1a4ae643575
+      internalID: 7968699740496473344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
